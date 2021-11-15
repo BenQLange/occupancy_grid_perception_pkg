@@ -22,7 +22,7 @@ To ensure the compatibility with other rosbag, the raw Lidar pointcloud topics n
 
 ## Example of the rviz visualization
 
-![](images/ROS_demo.gif)
+![](images/Example_vis.png)
 
 ## Experiments 
 

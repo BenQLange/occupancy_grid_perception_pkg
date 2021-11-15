@@ -1,0 +1,19 @@
+<library path="libnodelet_plugins">
+  <class name="occupancy_grid_generation_pkg/AggregatePoints" type="occupancy_grid_generation_pkg::AggregatePoints" base_class_type="nodelet::Nodelet">
+    <description>
+      Write things here.
+    </description>
+  </class>
+
+  <class name="occupancy_grid_generation_pkg/MrfGroundSeg" type="occupancy_grid_generation_pkg::MrfGroundSeg" base_class_type="nodelet::Nodelet">
+    <description>
+      Write things here.
+    </description>
+  </class>
+
+  <class name="occupancy_grid_generation_pkg/OccupancyGridGeneration" type="occupancy_grid_generation_pkg::OccupancyGridGeneration" base_class_type="nodelet::Nodelet">
+    <description>
+      Write things here.
+    </description>
+  </class>
+</library>
